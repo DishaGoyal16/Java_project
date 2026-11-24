@@ -1,0 +1,22 @@
+# Root-level ignores
+venv/
+.venv/
+env/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.local/
+verification-*.xml
+
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.jks
+*.keystore
+*.pem
+*.p12
